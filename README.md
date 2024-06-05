@@ -1,16 +1,31 @@
-## Hi there 👋
+<div>
+Oi, sou Jacques Oliveira.
+  
+Atualmente sou programador FullStack e desenvolvedor de jogos independente.
+No Backend uso 
 
-<!--
-**jacques-oliveira/jacques-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## C# e Oracle como SGBD, no FrontEnd utilizo o WPF e Angular.
 
-Here are some ideas to get you started:
+Para desenvolvimento de jogos uso
+## Unity3d, Blender, Krita e Inkscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência passada como modelador 3d, onde as ferramentas utilizadas
+foram Rhinoceros, Inventor, 3dsMax e Blender. Ferramentas que me agregaram
+valor no desenvolvimento de jogos, me possibilitando criar meus modelos desde
+o conceito até animação.
+
+Por fim, foi um casamento ótimo com meu atual trabalho, onde desenvolvi minhas
+habilidades de programação e, somei as duas skills resultando em uma stack de
+desenvolvimento de jogos. 
+
+Sou graduando de Egenharia da Computação, com formação para Dezembro de 2024,
+se leu até aqui peço a gentileza de conferir meu portfólio no link abaixo.
+
+(https://jacques3d.webnode.page/)
+## Linkedin
+(https://www.linkedin.com/in/jacques-oliveira-95677452/)
+
+</div>
+
+
+

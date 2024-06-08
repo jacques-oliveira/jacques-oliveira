@@ -1,10 +1,10 @@
 <div>
-Oi, sou Jacques Oliveira.
+<h2 style="color:Tomato;">Oi, sou Jacques Oliveira.</h2>
   
 Atualmente sou programador FullStack e desenvolvedor de jogos independente.
-No Backend uso 
 
-## C# e Oracle como SGBD, no FrontEnd utilizo o WPF e Angular.
+## Backend uso C# e Oracle como SGBD
+## Frontend utilizo o WPF e Angular.
 
 Para desenvolvimento de jogos uso
 ## Unity3d, Blender, Krita e Inkscape.

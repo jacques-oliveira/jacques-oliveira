@@ -1,5 +1,5 @@
-<div>
-<h2 style="color:Tomato;">Oi, sou Jacques Oliveira.</h2>
+<div class="container">
+<h2>Oi, sou Jacques Oliveira.</h2>
   
 Atualmente sou programador FullStack e desenvolvedor de jogos independente.
 
@@ -18,7 +18,7 @@ Por fim, foi um casamento ótimo com meu atual trabalho, onde desenvolvi minhas
 habilidades de programação e, somei as duas skills resultando em uma stack de
 desenvolvimento de jogos. 
 
-Sou graduando de Egenharia da Computação, com formação para Dezembro de 2024,
+Sou graduando de Engenharia da Computação, formação para Dezembro de 2024,
 se leu até aqui peço a gentileza de conferir meu portfólio no link abaixo.
 
 (https://jacques3d.webnode.page/)

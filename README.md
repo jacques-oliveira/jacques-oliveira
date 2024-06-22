@@ -1,7 +1,10 @@
 <div class="container">
 <h2>Oi, sou Jacques Oliveira.</h2>
   
-Atualmente sou programador FullStack e desenvolvedor de jogos independente.
+Sou Programador FullStack e desenvolvedor de jogos independente.
+
+Desenvolvimento, manutenção e implantação de sistemas voltado a automação industrial,trabalho
+no estilo remoto com reuniões semanais, tendo como principais clientes a ArcerlorMittal.
 
 ![Jacques's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=radical)
 

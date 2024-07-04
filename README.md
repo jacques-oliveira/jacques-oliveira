@@ -6,8 +6,6 @@ Sou Programador FullStack e desenvolvedor de jogos independente.
 Desenvolvimento, manutenção e implantação de sistemas voltado a automação industrial,trabalho
 no estilo remoto com reuniões semanais, tendo como principais clientes a ArcerlorMittal.
 
-![Jacques's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=radical)
-
 ## Backend 
 <div style="display: inline_block">
   <img align="center" width="40" alt="C#" src="https://w7.pngwing.com/pngs/929/60/png-transparent-net-framework-c-net-core-software-framework-mono-studio-purple-studio-violet-thumbnail.png"/>  
@@ -30,8 +28,7 @@ no estilo remoto com reuniões semanais, tendo como principais clientes a Arcerl
   <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> 
   <img align="center" alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
   <img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>  
-</div><br/>
-  
+</div><br/>  
   Tenho experiência passada como modelador 3d, onde as ferramentas utilizadas
   foram Rhinoceros, Inventor, 3dsMax e Blender. Ferramentas que me agregaram
   valor no desenvolvimento de jogos, me possibilitando criar meus modelos desde

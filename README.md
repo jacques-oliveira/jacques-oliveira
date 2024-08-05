@@ -1,11 +1,12 @@
 <div class="container">
 <h2>Oi, sou Jacques Oliveira.</h2>
-  
 Sou Programador FullStack e desenvolvedor de jogos independente.
 
 Desenvolvimento, manutenção e implantação de sistemas voltado a automação industrial,trabalho
-no estilo remoto com reuniões semanais, tendo como principais clientes a ArcerlorMittal.
-
+no estilo remoto com reuniões semanais, tendo como principais clientes a ArcerlorMittal.<br/>
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=radical)  
+<br/>
 ## Backend 
 <div style="display: inline_block">
   <img align="center" width="40" alt="C#" src="https://w7.pngwing.com/pngs/929/60/png-transparent-net-framework-c-net-core-software-framework-mono-studio-purple-studio-violet-thumbnail.png"/>  

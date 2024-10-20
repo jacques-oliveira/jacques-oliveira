@@ -26,17 +26,18 @@ no estilo remoto com reuniões semanais, tendo como principais clientes a Arcerl
 <div style="display: inline_block"><br/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>  
+  <img align="center" alt="Godot" src="https://img.shields.io/badge/GODOT-%23000000.svg?style=for-the-badge&logo=godot-engine"/>  
   <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> 
   <img align="center" alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
   <img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>  
 </div><br/>  
-  Tenho experiência passada como modelador 3d, onde as ferramentas utilizadas
+  Tenho experiência como modelador 3d, onde as ferramentas utilizadas
   foram Rhinoceros, Inventor, 3dsMax e Blender. Ferramentas que me agregaram
   valor no desenvolvimento de jogos, me possibilitando criar meus modelos desde
   o conceito até animação.
   Por fim, foi um casamento ótimo com meu atual trabalho, onde desenvolvi minhas
   habilidades de programação e, somei as duas skills resultando em uma stack de
-  desenvolvimento de jogos. 
+  desenvolvimento de jogos com Unity/Godot. 
 
   Sou graduando de Engenharia da Computação, formação para Dezembro de 2024,
   se leu até aqui peço a gentileza de conferir meu portfólio no link abaixo.

@@ -41,7 +41,8 @@ no estilo remoto com reuniões semanais, tendo como principais clientes a Arcerl
   desenvolvimento de jogos com Unity/Godot. 
 
   Sou graduando de Engenharia da Computação, formação para Dezembro de 2024,
-  se leu até aqui peço a gentileza de conferir meu portfólio no link abaixo.
+  se leu até aqui peço a gentileza de conferir meu portfólio no link abaixo e,
+  também meu linkedin.
 <h2>Portifólio Jogos</h2>
 (https://jacques3d.webnode.page/)<br/>
 

@@ -1,5 +1,4 @@
 <div class="container">
-<h2>Jacques Oliveira</h2>
   
 ## Programador FullStack
 Desenvolvimento, manutenção e implantação de sistemas para automação industrial, trabalho

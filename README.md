@@ -2,7 +2,7 @@
 <h2>Oi, sou Jacques Oliveira.</h2>
 Sou Programador FullStack e desenvolvedor de jogos independente.
 
-Desenvolvimento, manutenção e implantação de sistemas voltado a automação industrial,trabalho
+Desenvolvimento, manutenção e implantação de sistemas para automação industrial,trabalho
 no estilo remoto com reuniões semanais, tendo como principais clientes a ArcerlorMittal.<br/>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=nord)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&theme=nord)  
@@ -40,8 +40,8 @@ no estilo remoto com reuniões semanais, tendo como principais clientes a Arcerl
   habilidades de programação e, somei as duas skills resultando em uma stack de
   desenvolvimento de jogos com Unity/Godot. 
 
-  Sou graduando de Engenharia da Computação, formação para Dezembro de 2024,
-  se leu até aqui peço a gentileza de conferir meu portfólio no link abaixo e,
+  Sou graduando de Engenharia da Computação, formação para Dezembro de 2024.
+  Peço a gentileza de conferir meu portfólio no link abaixo e,
   também meu linkedin.
 <h2>Portifólio Jogos</h2>
 (https://jacques3d.webnode.page/)<br/>

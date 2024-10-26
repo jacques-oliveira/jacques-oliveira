@@ -1,6 +1,6 @@
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/jacques-oliveira/standard-readme)
 <div class="container">
   
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/jacques-oliveira/standard-readme)
   
 ## Programador FullStack
 Desenvolvimento, manutenção e implantação de sistemas para automação industrial, trabalho

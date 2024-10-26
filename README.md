@@ -1,12 +1,17 @@
 <div class="container">
-<h2>Oi, sou Jacques Oliveira.</h2>
-Sou Programador FullStack e desenvolvedor de jogos independente.
-
-Desenvolvimento, manutenção e implantação de sistemas para automação industrial,trabalho
+<h2>Jacques Oliveira</h2>
+  
+## Programador FullStack
+Desenvolvimento, manutenção e implantação de sistemas para automação industrial, trabalho
 no estilo remoto com reuniões semanais, tendo como principais clientes a ArcerlorMittal.<br/>
-<br/>
+
+No meu tempo livre desenvolvo jogos.
+
+## Contato
+- jacques.oliveira.eng@gmail.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&cache_seconds=360&headers=Cache-Control:no-cache)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&theme=github_dark_dimmed&cache_seconds=360&headers=Cache-Control:no-cache)  
-<br/>
+
 ## Backend 
 <div style="display: inline_block">
   <img align="center" width="40" alt="C#" src="https://w7.pngwing.com/pngs/929/60/png-transparent-net-framework-c-net-core-software-framework-mono-studio-purple-studio-violet-thumbnail.png"/>  

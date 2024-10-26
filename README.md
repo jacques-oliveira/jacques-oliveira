@@ -1,7 +1,6 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/jacques-oliveira/standard-readme)
 <div class="container">
-  
-  
+    
 ## Programador FullStack
 Desenvolvimento, manutenção e implantação de sistemas para automação industrial, trabalho
 no estilo remoto com reuniões semanais, tendo como principais clientes a ArcerlorMittal.<br/>
@@ -10,23 +9,26 @@ No meu tempo livre desenvolvo jogos.
 
 ## Contato
 - jacques.oliveira.eng@gmail.com
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&cache_seconds=360&headers=Cache-Control:no-cache)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&theme=github_dark_dimmed&cache_seconds=360&headers=Cache-Control:no-cache)  
 
 ## Backend 
-<div style="display: inline_block">
-  <img align="center" width="40" alt="C#" src="https://w7.pngwing.com/pngs/929/60/png-transparent-net-framework-c-net-core-software-framework-mono-studio-purple-studio-violet-thumbnail.png"/>  
-  <img align="center" width="150" alt="EntityFramework" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zMGK1wUURPDvjp97eSfG-A.jpeg"/> 
-  <img align="center" width="100" alt="AspnetCore" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrdItwa8EN_meCFMDoFqhfntL9WUNt4sULuAYqum2VeFZRpCFf"/>    
-  <img align="center" width="100" alt="Oracle" src="https://proxyjobsupport.com/wp-content/uploads/2020/10/Oracle-1.jpg"/>  
+
+<div style="display: flex; align-items: center; height: 30px;">
+    <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=csharp&logoColor=white" alt="C#" style="height: 30px;"/>
+    <img src="https://img.shields.io/badge/Entity%20Framework-8.0-green?style=flat-square" alt="Entity Framework" style="height: 30px; margin-left: 10px;"/>
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-8.0-blue?style=flat-square" alt="ASP.NET Core" style="height: 30px; margin-left: 10px;"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" style="height: 30px; margin-left: 10px;"/>
 </div>
 
 <br/>
 <h2>Frontend</h2>
-<div style="display: inline_block">
-  <img align="center" width="90" alt="WPF" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/wpf_button_icon_151942.png"/>    
-  <img align="center" width="100" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>  
+<div style="display: flex; align-items: center; height: 30px;">
+    <img src="https://img.shields.io/badge/WPF-5.0-4B8BBE?style=flat-square" alt="WPF" style="height: 30px; margin-left: 10px;"/>
+    <img src="https://img.shields.io/badge/Angular-18.0-red?style=flat-square&logo=angular&logoColor=white" alt="Angular" style="height: 30px; margin-left: 10px;"/>
 </div>
+
 <br/>
 <h2>Para desenvolvimento de jogos uso</h2>
 <div style="display: inline_block"><br/>

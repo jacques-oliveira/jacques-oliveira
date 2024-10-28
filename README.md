@@ -11,7 +11,7 @@ No meu tempo livre desenvolvo jogos.
 - jacques.oliveira.eng@gmail.com
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats-jacques.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&cache_seconds=3600)  ![Top Langs](https://github-readme-stats-jacques.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&theme=github_dark_dimmed&hide=JavaScript,ShaderLab,HLSL,Shell&cache_seconds=3600)  
+![Anurag's GitHub stats](https://github-readme-stats-jacques.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&cache_seconds=60)  ![Top Langs](https://github-readme-stats-jacques.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&theme=github_dark_dimmed&hide=JavaScript,ShaderLab,HLSL,Shell&cache_seconds=60)  
 
 ## Backend 
 

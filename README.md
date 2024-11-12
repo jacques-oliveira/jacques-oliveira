@@ -43,12 +43,12 @@ No meu tempo livre desenvolvo jogos.
   Tenho experiência como modelador 3d, onde as ferramentas utilizadas
   foram Rhinoceros, Inventor, 3dsMax e Blender. Ferramentas que me agregaram
   valor no desenvolvimento de jogos, me possibilitando criar meus modelos desde
-  o conceito até animação.
-  Por fim, foi um casamento ótimo com meu atual trabalho, onde desenvolvi minhas
-  habilidades de programação e, somei as duas skills resultando em uma stack de
+  o conceito, rig, texturas e animação.
+  Por fim, foi um casamento perfeito com meu atual trabalho, onde amadureci minhas
+  habilidades de programação e, somei as skills resultando em uma stack de
   desenvolvimento de jogos com Unity/Godot. 
 
-  Sou graduando de Engenharia da Computação, formação para Dezembro de 2024.
+  Graduando de Engenharia da Computação, formação para Dezembro de 2024.
   Peço a gentileza de conferir meu portfólio no link abaixo e,
   também meu linkedin.
 <h2>Portifólio Jogos</h2>

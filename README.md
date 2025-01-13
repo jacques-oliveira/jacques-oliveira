@@ -11,7 +11,7 @@ No meu tempo livre desenvolvo jogos.
 - jacques.oliveira.eng@gmail.com
 <br/>
 
-![GitHub stats](https://github-readme-stats-jacques.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&count_private=true)  ![Top Langs](https://github-readme-stats-jacques.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&count_private=true&theme=github_dark_dimmed&hide=JavaScript,ShaderLab,HLSL,Shell,PowerShell,Roff,MakeFile,CMake,jupyter%20notebook)  
+![GitHub stats](https://github-readme-stats-jacques.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&count_private=true&cache_seconds=3600)  ![Top Langs](https://github-readme-stats-jacques.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&count_private=true&theme=github_dark_dimmed&cache_seconds=3600&hide=JavaScript,ShaderLab,HLSL,Shell,PowerShell,Roff,MakeFile,CMake,jupyter%20notebook)  
 
 ## Backend 
 

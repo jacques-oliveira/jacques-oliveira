@@ -14,11 +14,11 @@ No meu tempo livre desenvolvo jogos.
 <div style="display: flex; align-items: center; text-align: center; gap: 10%;">
     <img 
         src="https://github-readme-stats-jacques.vercel.app/api?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&count_private=true&cache_seconds=60" 
-        style="height: 200px; width: auto; max-width: 45%;" 
+        style="height: 180px; width: auto; max-width: 45%;" 
     />
     <img 
         src="https://github-readme-stats-jacques.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&count_private=true&theme=github_dark_dimmed&cache_seconds=3600&hide=JavaScript,ShaderLab,HLSL,Shell,PowerShell,Roff,MakeFile,CMake,jupyter%20notebook&langs_count=8" 
-        style="height: 200px; width: auto; max-width: 45%" 
+        style="height: 180px; width: auto; max-width: 45%" 
     />
 </div>
 

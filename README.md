@@ -17,7 +17,7 @@ No meu tempo livre desenvolvo jogos.
         style="height: 180px; width: auto; max-width: 45%;" 
     />
     <img 
-        src="https://github-readme-stats-jacques.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&count_private=true&theme=github_dark_dimmed&cache_seconds=3600&hide=JavaScript,ShaderLab,HLSL,Shell,PowerShell,Roff,MakeFile,CMake,jupyter%20notebook&langs_count=8" 
+        src="https://github-readme-stats-jacques.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&count_private=true&theme=github_dark_dimmed&cache_seconds=3600&hide=JavaScript,ShaderLab,HLSL,Shell,PowerShell,Roff,MakeFile,CMake,jupyter%20notebook" 
         style="height: 180px; width: auto; max-width: 45%" 
     />
 </div>

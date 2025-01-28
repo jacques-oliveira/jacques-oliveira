@@ -13,7 +13,7 @@ No meu tempo livre desenvolvo jogos.
 
 <div style="display: flex; align-items: center; text-align: center; gap: 10%;">
     <img 
-        src="https://readme-stats-one-chi.vercel.app/api/?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&count_private=true&CACHE_SECONDS=0" 
+        src="https://readme-stats-one-chi.vercel.app/api/?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&count_private=true&cache_seconds=0" 
         style="height: 180px; width: auto; max-width: 45%;" 
     />
     <img 

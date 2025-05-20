@@ -2,7 +2,8 @@
 <div class="container">
     
 ## Engenheiro da Computação | Programador
-Desenvolvimento, manutenção e implantação de sistemas para automação industrial, trabalho
+Graduado em Engenharia da Computação, Dezembro de 2024. Atualmente trabalho com
+desenvolvimento, manutenção e implantação de sistemas para automação industrial, trabalho
 no estilo remoto com reuniões semanais, tendo como principais clientes a ArcerlorMittal.<br/>
 
 No meu tempo livre desenvolvo jogos.
@@ -54,8 +55,7 @@ No meu tempo livre desenvolvo jogos.
   Possuo experiência com modelagem 3d, criação de protótipos e simulações, onde as ferramentas utilizadas
   foram Rhinoceros, Inventor, 3dsMax e Blender. Ferramentas que me agregaram  valor no desenvolvimento de jogos,
   me possibilitando criar meus modelos desde o conceito, rig, texturas e animação.
-
-  Graduando de Engenharia da Computação, formação para Dezembro de 2024.
+<br/>
   Peço a gentileza de conferir meu portfólio no link abaixo e,
   também meu linkedin.
 <h2>Portifólio Jogos</h2>

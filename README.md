@@ -51,13 +51,9 @@ No meu tempo livre desenvolvo jogos.
   <img align="center" alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
   <img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>  
 </div><br/>  
-  Tenho experiência como modelador 3d, onde as ferramentas utilizadas
-  foram Rhinoceros, Inventor, 3dsMax e Blender. Ferramentas que me agregaram
-  valor no desenvolvimento de jogos, me possibilitando criar meus modelos desde
-  o conceito, rig, texturas e animação.
-  Por fim, foi um casamento perfeito com meu atual trabalho, onde amadureci minhas
-  habilidades de programação e, somei as skills resultando em uma stack de
-  desenvolvimento de jogos com Unity/Godot. 
+  Possuo experiência com modelagem 3d, criação de protótipos e simulações, onde as ferramentas utilizadas
+  foram Rhinoceros, Inventor, 3dsMax e Blender. Ferramentas que me agregaram  valor no desenvolvimento de jogos,
+  me possibilitando criar meus modelos desde o conceito, rig, texturas e animação.
 
   Graduando de Engenharia da Computação, formação para Dezembro de 2024.
   Peço a gentileza de conferir meu portfólio no link abaixo e,

@@ -43,7 +43,7 @@ No meu tempo livre desenvolvo jogos.
 </div>
 
 <br/>
-<h2>Para desenvolvimento de jogos uso</h2>
+<h2>Desenvolvimento de Jogos</h2>
 <div style="display: inline_block"><br/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  
   <img align="center" alt="GDScript" src="https://img.shields.io/badge/GDScript-white?style=for-the-badge&color=blue"/>  

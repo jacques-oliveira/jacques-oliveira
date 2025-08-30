@@ -2,10 +2,10 @@
 <div class="container">
     
 ## Engenheiro da Computação | Programador
-Graduado em Engenharia da Computação, Dezembro de 2024. Atualmente trabalho com
-desenvolvimento, manutenção e implantação de sistemas para automação industrial, atuando
-no BackEnd e FrontEnd, trabalho no estilo remoto com reuniões semanais, tendo como
-principais clientes a ArcerlorMittal.<br/>
+Graduado em Engenharia da Computação, trabalho com desenvolvimento, manutenção e 
+implantação de sistemas para automação industrial, atuando no BackEnd e FrontEnd, 
+trabalho no estilo remoto com reuniões semanais, tendo como principais clientes a
+ArcerlorMittal.<br/>
 
 No meu tempo livre desenvolvo jogos.
 

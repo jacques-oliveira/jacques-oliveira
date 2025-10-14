@@ -15,11 +15,11 @@ No meu tempo livre desenvolvo jogos.
 
 <div style="display: flex; align-items: center; text-align: center; gap: 10%;">
     <img 
-        src="https://readme-stats-one-chi.vercel.app/api/?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&count_private=true&cache_seconds=0" 
+        src="https://readme-stats-one-chi.vercel.app/api/?username=jacques-oliveira&show_icons=true&theme=github_dark_dimmed&count_private=true&cache_seconds=0&exclude_repo=git@github.com:jacques-oliveira/github-readme-stats.git" 
         style="height: 180px; width: auto; max-width: 45%;" 
     />
     <img 
-        src="https://readme-stats-one-chi.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&count_private=true&theme=github_dark_dimmed&hide=JavaScript,ShaderLab,HLSL,Shell,PowerShell,Roff,MakeFile,CMake,C,jupyter%20notebook&cache_seconds=0" 
+        src="https://readme-stats-one-chi.vercel.app/api/top-langs/?username=jacques-oliveira&layout=compact&count_private=true&theme=github_dark_dimmed&hide=JavaScript,ShaderLab,HLSL,Shell,PowerShell,Roff,MakeFile,CMake,C,jupyter%20notebook&cache_seconds=0&exclude_repo=git@github.com:jacques-oliveira/github-readme-stats.git" 
         style="height: 180px; width: auto; max-width: 45%" 
     />
 </div>

@@ -43,7 +43,7 @@ No meu tempo livre desenvolvo jogos.
 </div>
 <br/>
 
-<h2>Análise de Dados & Machine Learning | Deep Learning</h2>
+<h2>Análise de Dados | Machine Learning | Deep Learning</h2>
 <div style="display: flex; align-items: center; height: 30px;">    
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="height: 30px; margin-left: 10px;"/>
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="height: 30px; margin-left: 10px;"/>

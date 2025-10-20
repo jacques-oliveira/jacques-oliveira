@@ -48,7 +48,7 @@ No meu tempo livre desenvolvo jogos.
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="height: 30px; margin-left: 10px;"/>
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="height: 30px; margin-left: 10px;"/>
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" style="height: 30px; margin-left: 10px;"/>
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=grey&" alt="Matplotlib" style="height: 30px; margin-left: 10px;"/>
+    <img src="https://img.shields.io/badge/MatPlotLib-blue?style=for-the-badge&logo=Matplotlib" alt="Matplotlib" style="height: 30px; margin-left: 10px;"/>
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn" style="height: 30px; margin-left: 10px;"/>
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="height: 30px; margin-left: 10px;"/>
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" style="height: 30px; margin-left: 10px;"/>

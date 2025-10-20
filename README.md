@@ -41,6 +41,20 @@ No meu tempo livre desenvolvo jogos.
     <img src="https://img.shields.io/badge/WPF-5.0-4B8BBE?style=flat-square" alt="WPF" style="height: 30px; margin-left: 10px;"/>
     <img src="https://img.shields.io/badge/Angular-18.0-red?style=flat-square&logo=angular&logoColor=white" alt="Angular" style="height: 30px; margin-left: 10px;"/>
 </div>
+<br/>
+
+<h2>Análise de Dados & Machine Learning | Deep Learning</h2>
+<div style="display: flex; align-items: center; height: 30px;">    
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="height: 30px; margin-left: 10px;"/>
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="height: 30px; margin-left: 10px;"/>
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" style="height: 30px; margin-left: 10px;"/>
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=grey&" alt="Matplotlib" style="height: 30px; margin-left: 10px;"
+        style="height: 30px; margin-left: 10px; border: 2px solid black;"/>
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn" style="height: 30px; margin-left: 10px;"/>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="height: 30px; margin-left: 10px;"/>
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" style="height: 30px; margin-left: 10px;"/>
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" style="height: 30px; margin-left: 10px;"/>
+</div>
 
 <br/>
 <h2>Desenvolvimento de Jogos</h2>
@@ -52,7 +66,9 @@ No meu tempo livre desenvolvo jogos.
   <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> 
   <img align="center" alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
   <img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>  
-</div><br/>  
+</div>
+
+<br/>  
   Possuo experiência com modelagem 3d, criação de protótipos e simulações, onde as ferramentas utilizadas
   foram Rhinoceros, Inventor, 3dsMax e Blender. Ferramentas que me agregaram  valor no desenvolvimento de jogos,
   me possibilitando criar meus modelos desde o conceito, rig, texturas e animação.
